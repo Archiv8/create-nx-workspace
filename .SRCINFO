@@ -1,0 +1,15 @@
+pkgbase = create-nx-workspace
+	pkgdesc = A next generation build system with monorepo support and powerful integrations.
+	pkgver = 15.0.4
+	pkgrel = 1
+	url = https://blog.nrwl.io/nx/home
+	arch = any
+	license = MIT
+	makedepends = jq
+	makedepends = npm
+	depends = nodejs
+	noextract = create-nx-workspace-15.0.4.tgz
+	source = https://registry.npmjs.org/create-nx-workspace/-/create-nx-workspace-15.0.4.tgz
+	sha512sums = 821bfa927804fcc5617c4c620a29d2b7ea52daf35be005c84fb3577c59e4f51ba6a50b8f46fb056b42603438660b3409bd56e532aeded02522f9dd8d0b7e2335
+
+pkgname = create-nx-workspace
